@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SWK RepDay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7ef3af4dc01ff6f558fbca84508fdd66f45e4ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b25caa0d5b2f4abc3865732eba98db6bf84eda70")]
 [assembly: System.Reflection.AssemblyProductAttribute("SWK RepDay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SWK RepDay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
